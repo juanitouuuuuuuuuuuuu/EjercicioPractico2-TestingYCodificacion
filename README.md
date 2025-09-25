@@ -8,6 +8,10 @@
 
 <img width="1919" height="428" alt="Captura de pantalla 2025-09-24 233147" src="https://github.com/user-attachments/assets/26ddc7d8-dd34-4c32-92dc-d9c7b3870113" />
 
+# Diagrama de Integración
+
+<img width="1678" height="635" alt="DiagramadeIntegracion" src="https://github.com/user-attachments/assets/3df73510-4a01-4419-8a99-ced25cf341f6" />
+
 # Análisis general del conjunto e impacto de la estrategia Bottom-Up
 
 ## Contexto del proyecto
